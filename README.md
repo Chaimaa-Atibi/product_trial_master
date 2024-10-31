@@ -31,7 +31,7 @@ class Product {
   createdAt: number;
   updatedAt: number;
 }
-
+```
 # Prérequis
 - Java 8
 - Maven
